@@ -29,15 +29,15 @@ Lea cuidadosamente las siguientes **indicaciones** antes de comenzar el examen:
 - Recuerde que también se está evaluando su capacidad de interpretar los resultados. Escriba sus interpretaciones/conclusiones
 - La calificación del examen está distribuida de la siguiente manera:
 
-|                       Aspecto a evaluar                       | Porcentaje |
-|:-------------------------------------------------------------:|------------|
-| Repositorio de Github debidamente configurado                 | 10         |
-| Análisis Exploratorio de Datos.                               | 10         |
-| Ingeniería de Características - Data Wrangling                | 10         |
-|  Entrenamiento, validación, evaluación y selección del modelo | 20         |
-| Microservicio (API) para servir el modelo                     | 20         |
-| Creación de imagen para dicha API                             | 20         |
-| Conclusiones                                                  | 10         |
+|                      Aspecto a evaluar                       | Porcentaje |
+|:------------------------------------------------------------:|------------|
+|        Repositorio de Github debidamente configurado         | 10         |
+|               Análisis Exploratorio de Datos.                | 10         |
+|        Ingeniería de Características - Data Wrangling        | 10         |
+| Entrenamiento, validación, evaluación y selección del modelo | 20         |
+|          Micro-servicio (API) para servir el modelo          | 20         |
+|              Creación de imagen para dicha API               | 20         |
+|                         Conclusiones                         | 10         |
 
 
 #### Descripción de la Base de Datos
@@ -55,11 +55,11 @@ El `dataset` se encuentra en la carpeta Data de este repo. Para descargar el arc
 
 
 #### Especificaciones de Input y Output
-<h2>Input</h2>
+<h5>Input</h5>
 <p>El modelo recibirá como entrada:
     <ul>
         <li><b>descripción</b>: Es una descripción textual sobre la que haremos la predicción</li>
     </ul>
-<h2>Output</h2>
+<h5>Output</h5>
 <p>El output del modelo debe de ser una clasificación <b>1</b>:funded y <b>0</b>: not funded </p><br>
 
