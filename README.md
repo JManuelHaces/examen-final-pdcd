@@ -48,7 +48,7 @@ El `dataset` se encuentra en la carpeta Data de este repo. Para descargar el arc
 
 _________________
 ## Resultados
-- APP -> Directorio con todo lo necesario para la APP.
+- Api -> Directorio con todo lo necesario para la APP.
 - Data -> Directorio con todos los datos necesarios.
 - Modelos -> Directorio con todos los modelos generados.
 - ExamenFinal.ipynb -> Notebook con el EDA, Ingeniería de características, Modelado y Evaluación del modelo.

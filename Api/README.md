@@ -1,4 +1,4 @@
-# README APP
+# README API
 En esta carpeta se encuentran los archivos necesarios para la ejecución de la API, su imagen y su contenedor docker.
 
 - Estructura:
